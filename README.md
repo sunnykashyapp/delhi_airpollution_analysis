@@ -195,7 +195,7 @@ Python, pandas, NumPy, matplotlib, seaborn, SciPy, Jupyter. Data wrangling acros
 **Sunny Kashyap**
 
 - Email: [kashyapsunny0134@gmail.com](mailto:kashyapsunny0134@gmail.com)
-- LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/sunnykashyap1111)
+- LinkedIn: [sunnykashyap1111](https://www.linkedin.com/in/sunnykashyap1111)
 - GitHub: [sunnykashyapp](https://github.com/sunnykashyapp)
 
 If you found this useful or have feedback, feel free to get in touch.
